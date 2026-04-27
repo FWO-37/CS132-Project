@@ -11,6 +11,8 @@ Since I already knew the rules, the hardest part was debugging the nearly finish
 
 I considered adding multiple games as a possibilty and keeping track of score, but I didn't want to add anything not specified just in case. It wouldn't be a difficult change, but I didn't want to take any risks. I also had to delete the original project file and upload a new one with comments, as I wasn't sure if editing the uploaded project file would break the code when ran from a different source/site. 
 
+While the code I wrote isn't very long or complex, it does the job and it does it well. Thank you for reading this, and I wish you the best.
+
 This project was started on 4/26/26, and finished on 4/27/26.
 
 The requirements:
