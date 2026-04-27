@@ -9,7 +9,7 @@ While not being too complex of an issue, it wasn't easy. Figuring out a way to b
 
 Since I already knew the rules, the hardest part was debugging the nearly finished code. I spent the longest time fixing my winning conditions, as I used a lot of copy and paste of the same line and changing it, then forgetting to change the last line. This caused major issues that I believed were in a different location, which slowed my process down quite a bit. 
 
-I considered adding multiple games as a possibilty and keeping track of score, but I didn't want to add anything not specified just in case. It wouldn't be a difficult change, but I didn't want to take any risks.
+I considered adding multiple games as a possibilty and keeping track of score, but I didn't want to add anything not specified just in case. It wouldn't be a difficult change, but I didn't want to take any risks. I also had to delete the original project file and upload a new one with comments, as I wasn't sure if editing the uploaded project file would break the code when ran from a different source/site. 
 
 This project was started on 4/26/26, and finished on 4/27/26.
 
